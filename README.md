@@ -1,4 +1,4 @@
-# web-connect-api
+# Web Connect REST API
 
 REST API for Web Application Integration
 
